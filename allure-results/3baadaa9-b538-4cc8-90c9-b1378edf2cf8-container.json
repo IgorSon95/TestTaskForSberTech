@@ -1,1 +1,0 @@
-{"uuid":"3baadaa9-b538-4cc8-90c9-b1378edf2cf8","name":"FirstCase","start":1550345801715,"stop":1550345845775,"children":["e0347ddc-c771-4389-8877-32ead0258b5f"],"afters":[{"name":"close","status":"passed","stage":"finished","description":"","start":1550345844640,"stop":1550345845774}]}

@@ -1,1 +1,0 @@
-{"uuid":"32ed3f41-9a6d-426d-8a74-1af416912a3a","name":"SecondCase","start":1550345926906,"stop":1550345932001,"children":["5355b328-ece1-4238-bbbd-3864ec1524da"],"afters":[{"name":"close","status":"passed","stage":"finished","description":"","start":1550345932001,"stop":1550345932001}]}
