@@ -1,0 +1,2 @@
+driverPath=C:\TestTaskForSberTech\chromedriver.exe
+site=https://market.yandex.ru/

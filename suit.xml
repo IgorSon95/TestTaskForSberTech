@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestTaskForSberTech">
+    <test name="FirstCase">
+        <parameter name="price" value="-30000" />
+        <parameter name="brands" value="HP,Lenovo" />
+        <classes>
+            <class name="DefaultTest"/>
+        </classes>
+    </test>
+    <test name="SecondCase">
+        <parameter name="price" value="20000-25000" />
+        <parameter name="brands" value="Acer,DELL" />
+        <classes>
+            <class name="DefaultTest"/>
+        </classes>
+    </test>
+</suite>

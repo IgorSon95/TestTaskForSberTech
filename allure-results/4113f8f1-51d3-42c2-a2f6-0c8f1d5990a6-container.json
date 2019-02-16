@@ -1,0 +1,1 @@
+{"uuid":"4113f8f1-51d3-42c2-a2f6-0c8f1d5990a6","name":"TestTaskForSberTech","start":1550316387499,"stop":1550316435546,"children":["4b225ad9-3bab-4b38-a26f-779e0bd3e89f"],"afters":[{"name":"close","status":"passed","stage":"finished","description":"","start":1550316434302,"stop":1550316435546}]}
