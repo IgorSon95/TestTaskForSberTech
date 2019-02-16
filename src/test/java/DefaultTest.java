@@ -34,9 +34,6 @@ public class DefaultTest {
     @Step("1-5 steps")
     public void goTo() {
         tabManager().go(COMPUTERS_TECH).go(LAPTOP);
-        Core.sleep(10000);
-        tabManager().goToMainPage();
-        Core.sleep(10000);
     }
 
     @Step("6-8 steps")
