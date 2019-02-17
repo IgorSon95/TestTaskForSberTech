@@ -57,6 +57,7 @@ public class DefaultTest {
     public void assertAll() {
         softAssert.assertAll();
         tabManager().goToMainPage();
+        softAssert = new SoftAssert();
     }
 
     @AfterSuite
